@@ -1,0 +1,43 @@
+SubStantial License
+
+Copyright (c) 2026 Galaco. All rights reserved.
+
+This license covers the SubStantial app and the substantial command-line tool published
+in this repository and through Homebrew ("SubStantial"). Copies from the Mac App Store
+are covered by Apple's Licensed Application End User License Agreement instead, together
+with the permissions in section 5, which the app's About window gives every copy.
+
+1. Use. SubStantial is free. You may install and use it on any number of computers, for
+   any purpose, including commercial work.
+
+2. Sharing. You may share unmodified copies of SubStantial, free of charge, together with
+   this license. You may not sell SubStantial or include it in anything you sell.
+
+3. SubStantial Pro. Pro's features need a license, bought from
+   https://www.galaco.me/software/substantial/pro. A license is for the person who
+   bought it, on the Macs they use, and is not to be shared. You may not use Pro's
+   features without a license, or share anything that unlocks them without one.
+
+4. Changes. You may not modify, decompile or reverse engineer SubStantial, except as
+   section 5 allows, and as far as applicable law allows despite this restriction.
+
+5. LGPL libraries. The app includes FFmpeg and FriBidi under the GNU Lesser General
+   Public License, version 2.1, unmodified, as separate frameworks inside it. As that
+   license requires, you may modify SubStantial for your own use, including replacing
+   those frameworks with your own builds, and reverse engineer it to debug those
+   modifications. Their source code, with the scripts that built them, is attached to
+   each release in this repository.
+
+6. Third-party software. The app also includes whisper.cpp and llama.cpp (both MIT) and
+   libass (ISC), with FreeType (FreeType License) and HarfBuzz (MIT) inside it, and the
+   command-line tool includes Swift Argument Parser (Apache 2.0). Their own licenses
+   apply to them, and to FFmpeg and FriBidi. Their notices are in the app's About window
+   and in THIRD_PARTY_NOTICES.txt in the command-line tool's download.
+
+7. No warranty. SUBSTANTIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH SUBSTANTIAL OR THE USE OR OTHER
+   DEALINGS IN IT. Nothing in this license limits rights you have under consumer law
+   that cannot be excluded.
